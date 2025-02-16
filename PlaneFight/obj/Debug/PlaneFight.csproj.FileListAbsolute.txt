@@ -1,0 +1,38 @@
+G:\9 klas\Ready\PlaneFight\PlaneFight\bin\Debug\PlaneFight.exe.config
+G:\9 klas\Ready\PlaneFight\PlaneFight\bin\Debug\PlaneFight.exe
+G:\9 klas\Ready\PlaneFight\PlaneFight\bin\Debug\PlaneFight.pdb
+G:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csprojAssemblyReference.cache
+G:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.Form1.resources
+G:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.Properties.Resources.resources
+G:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csproj.GenerateResource.cache
+G:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.exe
+G:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.pdb
+F:\9 klas\Ready\PlaneFight\PlaneFight\bin\Debug\PlaneFight.exe.config
+F:\9 klas\Ready\PlaneFight\PlaneFight\bin\Debug\PlaneFight.exe
+F:\9 klas\Ready\PlaneFight\PlaneFight\bin\Debug\PlaneFight.pdb
+F:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csprojAssemblyReference.cache
+F:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.Form1.resources
+F:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.Properties.Resources.resources
+F:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csproj.GenerateResource.cache
+F:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csproj.CoreCompileInputs.cache
+F:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.exe
+F:\9 klas\Ready\PlaneFight\PlaneFight\obj\Debug\PlaneFight.pdb
+G:\Олимпиада\PlaneFight\PlaneFight\bin\Debug\PlaneFight.exe.config
+G:\Олимпиада\PlaneFight\PlaneFight\bin\Debug\PlaneFight.exe
+G:\Олимпиада\PlaneFight\PlaneFight\bin\Debug\PlaneFight.pdb
+G:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csprojAssemblyReference.cache
+G:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.Form1.resources
+G:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.Properties.Resources.resources
+G:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csproj.GenerateResource.cache
+G:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.exe
+G:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.pdb
+F:\Олимпиада\PlaneFight\PlaneFight\bin\Debug\PlaneFight.exe.config
+F:\Олимпиада\PlaneFight\PlaneFight\bin\Debug\PlaneFight.exe
+F:\Олимпиада\PlaneFight\PlaneFight\bin\Debug\PlaneFight.pdb
+F:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csprojAssemblyReference.cache
+F:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.Form1.resources
+F:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.Properties.Resources.resources
+F:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csproj.GenerateResource.cache
+F:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.csproj.CoreCompileInputs.cache
+F:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.exe
+F:\Олимпиада\PlaneFight\PlaneFight\obj\Debug\PlaneFight.pdb
